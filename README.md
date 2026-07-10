@@ -1,1 +1,5 @@
+​The pettiness of switching radio channels is a "human-factor" failure that puts lives at risk.
+​The "Neutrality Protocol": This protocol establishes a "Common-Ground" communication standard. It creates a Haven-Lock bridge that forces cross-talk between Forest Service and Timber/Fire crews during emergencies.
+​Geospatial Lock: If a crew member is in a specific zone, the radio system cannot be muted or switched by an outside party unless it is an emergency override. You get a "digital leash" that keeps you on the right frequency for your survival, preventing the "fire guys vs. timber guys" drama from endangering you.
+Note to Repository: We are targeting "Systemic Failure points"—not human moments. If a bus seat is dangerous, if a floor is a hazard, or if radio protocols allow sabotage, these are targets for M.A.D. W.E.A.R. and Haven-Lock intervention. We are not automating life; we are securing the environment so the human experience can happen safely.
 # Protocol-Forest-Service-Field-Crew-Cohesion-The-Channel-Lock-
